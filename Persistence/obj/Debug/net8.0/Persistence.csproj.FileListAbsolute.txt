@@ -1,0 +1,17 @@
+D:\Butikkkatalog\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\Butikkkatalog\Persistence\bin\Debug\net8.0\Persistence.runtimeconfig.json
+D:\Butikkkatalog\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\Butikkkatalog\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\Butikkkatalog\Persistence\bin\Debug\net8.0\Entities.dll
+D:\Butikkkatalog\Persistence\bin\Debug\net8.0\Entities.pdb
+D:\Butikkkatalog\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\Butikkkatalog\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Butikkkatalog\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\Butikkkatalog\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\Butikkkatalog\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Butikkkatalog\Persistence\obj\Debug\net8.0\Persistence.csproj.CopyComplete
+D:\Butikkkatalog\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\Butikkkatalog\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\Butikkkatalog\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\Butikkkatalog\Persistence\obj\Debug\net8.0\Persistence.genruntimeconfig.cache
+D:\Butikkkatalog\Persistence\obj\Debug\net8.0\ref\Persistence.dll

@@ -1,0 +1,121 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.store-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: normal;
+}
+
+.card {
+  flex: 0 0 300px;
+  margin: 10px;
+  padding: 20px;
+  background-color: #c6c6c6;
+  color: #333333; /* Dark font color for readability */
+  border: 1px solid #cccccc; /* Border color */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  padding: 20px;
+  margin: 20px;
+}
+
+.card a {
+  color: lightslategrey;
+}
+
+.card a:hover {
+  color: darkkhaki;
+}
+
+.card h2 {
+  color: lightslategrey;
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.card p {
+  margin: 5px 0;
+}
+
+.store-image {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.services-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.services-list li {
+  margin-bottom: 5px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+.opening-hours {
+  list-style-type: none;
+  padding: 0;
+}
+
+.opening-hours li {
+  margin-bottom: 5px;
+  display: table;
+}
+
+.opening-hours li.closed {
+  color: red; /* Style for closed hours */
+  font-weight: bold;
+}
+
+.inStoreService {
+  font-family: "Courier New", Courier, monospace;
+  font-size: smaller;
+}
